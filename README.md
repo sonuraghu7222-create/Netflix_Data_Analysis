@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL  
 
-![](https://github.com/yourusername/netflix_sql_project/blob/main/logo.png)  
+![](https://github.com/yourusername/netflix_sql_project/blob/main/logo.png) 
 
 ## 📌 Overview  
 This project analyzes the **Netflix Movies & TV Shows dataset** using **SQL**. The dataset contains information such as titles, directors, cast, countries, release years, ratings, durations, and descriptions.  
@@ -94,5 +94,5 @@ It showcases strong SQL skills including **joins, aggregations, date/time functi
 This project is part of my portfolio to showcase SQL for data analytics.  
 
 📌 Connect with me:  
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [Your Repositories](https://github.com/yourusername)  
+- **LinkedIn**: https://www.linkedin.com/in/sonu-raghuwanshi--/  
+- **GitHub**: https://github.com/sonuraghu7222-create 
